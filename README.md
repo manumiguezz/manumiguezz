@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @manumiguezz
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Java, SQL.
+- 💞️ I’m looking to collaborate on tech projects.
+- 📫 manuelmiguezlauria@gmail.com use this mail to reach me!
