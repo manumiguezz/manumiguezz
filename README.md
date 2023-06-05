@@ -5,4 +5,6 @@
 - 📫 manuelmiguezlauria@gmail.com use this mail to reach me!
 
 
-I am a trainee software developer with a strong foundation in Java 11 and 17, as well as knowledge in object-oriented programming and SQL. Currently, I am studying Flutter to be able to compete in the field of iOS and Android development. My previous job allowed me to assist in the development of a ticket sales and seat location system, where I discovered my passion for programming. Nowadays, I am striving to find a place to progress and build my experience in this field.
+Currently coding with Java/C at GAO Tek Inc. With a solid foundation of knowledge and experience in programming, I specialize in Java 11 and Java 17, as well as database structures (MySQL/SQLite3). 
+
+In addition to my programming experience, I am expanding my skills in mobile and web development through studying Flutter and Dart. My goal is to apply my knowledge in these technologies to create efficient and appealing solutions for both mobile applications and web platforms.
