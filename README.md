@@ -7,7 +7,7 @@ In addition to my programming experience, I am expanding my skills in mobile and
 </p>
 
 <p align="left">
-  🦄 Languages: 
+  👨‍💻 Languages: 
 </p>
 
 <p align="left">
