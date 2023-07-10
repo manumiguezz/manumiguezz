@@ -20,7 +20,7 @@ In addition to my programming experience, I am expanding my skills in mobile and
 
 <p align="left">
   <strong> Rest API, JAVAFX Docker, Postman, Git, MySQL, SQLITE3, 
-    JBDC, PostgreSQL JWT, Cupertino</strong>
+    JBDC, PostgreSQL JWT</strong>
 </p>
 
 <p align="left">
