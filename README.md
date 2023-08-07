@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Currently coding with Java/C at GAO Tek Inc. With a solid foundation of knowledge and experience in programming, I specialize in Java 11 and Java 17, as well as database structures (MySQL/SQLite3). 
+As an aspiring backend software developer, I have a strong foundation in Java development, with expertise in Java 11 and 17. I'm proficient in object-oriented programming and can work effectively with other languages like Dart, C, C++, as well as web technologies such as HTML and CSS.
 
-In addition to my programming experience, I am expanding my skills in mobile and web development through studying Flutter and Dart. My goal is to apply my knowledge in these technologies to create efficient and appealing solutions for both mobile applications and web platforms.
+I also have extensive knowledge of frameworks like Spring Boot, Flutter, Hibernate, and JavaFX, enabling me to work on diverse projects. I've developed RESTful APIs with CRUD operations and established database connections. Additionally, I'm skilled in using dependency managers like Maven and Gradle for efficient project management and organization.
 </p>
 
 <p align="left">
