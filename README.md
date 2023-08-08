@@ -11,7 +11,7 @@ I also have extensive knowledge of frameworks like Spring Boot, Flutter, Hiberna
 </p>
 
 <p align="left">
-  <strong> Java, Dart, Flutter, C/C++, JS, HTML.</strong>
+  <strong> Java, Dart, Flutter, C / C++, JS, HTML.</strong>
 </p>
 
 <p align="left">
