@@ -1,9 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="700px" max-width="350px" width="650px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-As an aspiring backend software developer, I have a strong foundation in Java development, with expertise in Java 11 and 17. I'm proficient in object-oriented programming and can work effectively with other languages like Dart, C, C++, as well as web technologies such as HTML and CSS.
-
-I also have extensive knowledge of frameworks like Spring Boot, Flutter, Hibernate, and JavaFX, enabling me to work on diverse projects. I've developed RESTful APIs with CRUD operations and established database connections. Additionally, I'm skilled in using dependency managers like Maven and Gradle for efficient project management and organization.
+<p align="justify"> 
+Hi I'm Manu!
+I'm a backend developer with expertise in a wide array of programming languages and frameworks. I invite you to explore my GitHub projects and browse through my web portfolio to get a deeper insight into my work and proficiency.
 </p>
 
 <p align="left">
@@ -11,16 +10,27 @@ I also have extensive knowledge of frameworks like Spring Boot, Flutter, Hiberna
 </p>
 
 <p align="left">
-  <strong> Java, Dart, Flutter, C / C++, JS, HTML.</strong>
+  <strong> Java, Dart, Flutter, C / C++, HTML, CSS.</strong>
 </p>
 
 <p align="left">
-  💻 Technologies:
+  💻 Tools and Competencies:
+</p>
+
+<p align="justify">
+  <strong> 
+    Spring, Spring Boot, Thymeleaf, Hibernate, <br>JPA, Rest API, JAVAFX, Docker, Postman, Git, <br>MySQL, SQLITE3, JBDC, JWT, iOS, Android
+  </strong>
 </p>
 
 <p align="left">
-  <strong> Rest API, JAVAFX Docker, Postman, Git, MySQL, SQLITE3, 
-    JBDC, PostgreSQL JWT</strong>
+  🧬 Portfolio: 
+</p>
+
+<p align="left">
+  <a href="https://manuelmiguezlauriaportfolio.web.app/" alt="portfolio">
+    <img src="https://img.shields.io/badge/website-361561?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </p>
 
 <p align="left">
@@ -29,10 +39,10 @@ I also have extensive knowledge of frameworks like Spring Boot, Flutter, Hiberna
 
 <p align="left">
   <a href="mailto:manuelmiguezlauria@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/manuelmiguezlauria/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
