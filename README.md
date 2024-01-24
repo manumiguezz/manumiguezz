@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="700px" max-width="350px" width="450px" align="right" alt="Computador iuriCode">
 
 <p align="justify"> 
 Hi I'm Manu!
