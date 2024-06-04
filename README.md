@@ -5,7 +5,7 @@ I'm a backend developer with expertise in a wide array of programming languages 
 </p>
 
 <p align="left">
-  👨‍💻 Languages: 
+  👨‍💻 Knowledge on: 
 </p>
 
 <p align="left">
