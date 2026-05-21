@@ -21,15 +21,9 @@ I focus on building scalable automation coverage, improving testability, validat
 ## Contact Me!
 
 <p align="left">
-  <a href="https://manuelmiguezlauriaportfolio.web.app/" alt="portfolio">
-    <img src="https://img.shields.io/badge/website-361561?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="mailto:manuelmiguezlauria@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/manuelmiguezlauria/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://manuelmiguezlauriaportfolio.web.app/"><img src="https://img.shields.io/badge/Website-361561?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:manuelmiguezlauria@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/manuelmiguezlauria/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 
